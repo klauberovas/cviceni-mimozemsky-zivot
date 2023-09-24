@@ -1,0 +1,19 @@
+.podzim {
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+img {
+  width: 100vw;
+  height: 100vh;
+}
+
+.podzim h1 {
+  margin: 0;
+  font-size: 36px;
+  position: absolute;
+  top: calc(100vh / 2);
+  left: calc(100vw / 3);
+  color: white;
+}
